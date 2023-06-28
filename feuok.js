@@ -1,0 +1,1 @@
+console.log("J’ai terminé l’Épreuve du Feu et c’était IMPOSSIBLE, plus JAMAIS en plus ça marche meme pas correctement a la fin mais je peux pas faire mieux j'ai deja l'algo de base ça me suffit amplement ! je vais pas y repasser des nuit entières non plus pour des erreur chelou et illogique c'est déjà un bon exercice je ferai pas plus")
